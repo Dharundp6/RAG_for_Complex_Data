@@ -1,0 +1,7 @@
+gradio
+langchain
+llama-parse
+qdrant-client
+unstructured
+fastembed 
+flashrank
