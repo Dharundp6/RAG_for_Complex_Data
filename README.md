@@ -1,1 +1,3 @@
+**RAG for Complex Data in Financial Analysis**
 
+This project utilizes a Retrieval-Augmented Generation (RAG) model for advanced financial analysis. The RAG model integrates retrieval-based and generation-based techniques to analyze complex financial data. It retrieves relevant financial documents from a large dataset and generates coherent, contextually accurate responses based on the retrieved information. This approach allows for detailed and scalable financial analysis, making it suitable for various financial data scenarios. The project is designed to handle intricate financial data efficiently, providing insightful and reliable analysis results.
