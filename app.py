@@ -18,8 +18,8 @@ from langchain_groq import ChatGroq
 from llama_parse import LlamaParse
 
 # Set API keys
-GROQ_API_KEY = "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"
-LLAMA_PARSE_KEY = "llx-4VRm5WK6WP7vkjPw7GgNjj9fFxFwyFfZrXj7WHFQbzuskLZK"
+GROQ_API_KEY = ""
+LLAMA_PARSE_KEY = ""
 
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
