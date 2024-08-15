@@ -25,21 +25,6 @@ This project implements a Retrieval-Augmented Generation (RAG) model designed fo
 - Investment strategy formulation
 - Financial forecasting
 
-## Getting Started
-
-(Include installation instructions, dependencies, and basic usage examples here)
-
-## Contributing
-
-We welcome contributions to enhance the capabilities of this financial analysis tool. Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-(Specify the license under which this project is released)
-
-## Contact
-
-(Provide contact information or links for users to reach out with questions or feedback)
 
 ---
 
